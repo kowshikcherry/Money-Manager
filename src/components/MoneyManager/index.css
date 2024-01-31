@@ -1,0 +1,75 @@
+.bg1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg2 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  border-radius: 15px;
+  margin: 10px;
+  height: 15%;
+  width: 90%;
+  padding-left: 10px;
+}
+.bg3 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin: 10px;
+  height: 15%;
+  width: 90%;
+}
+.bg4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #7e858e;
+  padding: 10px;
+  width: 40%;
+}
+.bg5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  height: 15%;
+  width: 90%;
+}
+.bg6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #7e858e;
+  padding: 10px;
+  width: 90%;
+}
+.bg7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.bghistory {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.bg8{
+  height: 100%;
+  width: 100%;
+}

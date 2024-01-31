@@ -1,0 +1,11 @@
+.deleteimg {
+  height: 15px;
+  width: 15px;
+}
+.listhistory{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
