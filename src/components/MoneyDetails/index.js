@@ -6,7 +6,7 @@ const Moneydetails = props => {
       <img alt={alt} className="img" src={imgurl} />
       <div>
         <p>{name}</p>
-        <p data-testid={textid}>{chang1value}</p>
+        <p data-testid={textid}>Rs {chang1value}</p>
       </div>
     </li>
   )

@@ -130,7 +130,7 @@ class MoneyManager extends Component {
         </ul>
       )
     } else {
-      hide = ''
+      hide = null
     }
 
     //console.log(list)
